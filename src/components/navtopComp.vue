@@ -45,6 +45,7 @@
             </button>
         </div>
     </div>
+    <img id="testSrc" src="../assets/SpxConseil/cityBackgroundDallE.png" alt="">
 </template>
 
 <script lang="ts">
@@ -81,6 +82,11 @@ export default {
 </script>
 
 <style scoped>
+
+#testSrc {
+    height: 14vh;
+    width: 14vh;
+}
 
 #navtop {
     display: flex;
