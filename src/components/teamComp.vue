@@ -65,52 +65,52 @@ export default defineComponent({
 			teamMembers: {
 				member1: {
 					name: "Thomas",
-					photoId: "../../src/assets/team/1-Thomas.png",
+					photoId: "../assets/team/1-Thomas.png",
 					role: 'team.president'
 				},
 				member2: {
 					name: "Massi",
-					photoId: "../../src/assets/team/2-Massi.png",
+					photoId: "../assets/team/2-Massi.png",
 					role: 'team.vicePresident'
 				},
 				member3: {
 					name: "Leana",
-					photoId: "../../src/assets/team/3-Leana.png",
+					photoId: "../assets/team/3-Leana.png",
 					role: 'team.generalSecretary'
 				},
 				member4: {
 					name: "Raphaël",
-					photoId: "../../src/assets/team/4-Raphaël.png",
+					photoId: "../assets/team/4-Raphaël.png",
 					role: 'team.businessDevelopmentManager'
 				},
 				member5: {
 					name: "Callista",
-					photoId: "../../src/assets/team/5-Callista.png",
+					photoId: "../assets/team/5-Callista.png",
 					role: 'team.businessDevelopmentDepartment'
 				},
 				member6: {
 					name: "Marie",
-					photoId: "../../src/assets/team/6-Marie.png",
+					photoId: "../assets/team/6-Marie.png",
 					role: 'team.businessDevelopmentDepartment'
 				},
 				member7: {
 					name: "Vincent",
-					photoId: "../../src/assets/team/7-Vincent.png",
+					photoId: "../assets/team/7-Vincent.png",
 					role: 'team.businessDevelopmentDepartment'
 				},
 				member8: {
 					name: "Ines",
-					photoId: "../../src/assets/team/8-Ines.png",
+					photoId: "../assets/team/8-Ines.png",
 					role: 'team.communicationManager'
 				},
 				member9: {
 					name: "Alexis",
-					photoId: "../../src/assets/team/9-Alexis.png",
+					photoId: "../assets/team/9-Alexis.png",
 					role: 'team.hrManager'
 				},
 				member10: {
 					name: "Antoine",
-					photoId: "../../src/assets/team/10-Antoine.png",
+					photoId: "../assets/team/10-Antoine.png",
 					role: 'team.treasurer'
 				}
 			}
