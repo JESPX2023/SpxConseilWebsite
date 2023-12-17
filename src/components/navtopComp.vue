@@ -45,7 +45,7 @@
             </button>
         </div>
     </div>
-    <img id="testSrc" src="../assets/SpxConseil/cityBackgroundDallE.png" alt="">
+    <!-- <img id="testSrc" src="../assets/SpxConseil/cityBackgroundDallE.png" alt=""> -->
 </template>
 
 <script lang="ts">
