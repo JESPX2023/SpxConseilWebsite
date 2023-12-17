@@ -54,35 +54,35 @@ export default defineComponent({
             },
             partners: {
                 partner1: {
-                    photoUrl: "../../src/assets/partners/arcelorMittal.png",
+                    photoUrl: "../assets/partners/arcelorMittal.png",
                     alt: "Arcelor Mittal"
                 },
                 partner2: {
-                    photoUrl: "../../src/assets/partners/cea.png",
+                    photoUrl: "../assets/partners/cea.png",
                     alt: "CEA"
                 },
                 partner3: {
-                    photoUrl: "../../src/assets/partners/CMA_CGM.png",
+                    photoUrl: "../assets/partners/CMA_CGM.png",
                     alt: "CMA CGM"
                 },
                 partner4: {
-                    photoUrl: "../../src/assets/partners/hautConseilClimat.jpg",
+                    photoUrl: "../assets/partners/hautConseilClimat.jpg",
                     alt: "Haut Conseil Climat"
                 },
                 partner5: {
-                    photoUrl: "../../src/assets/partners/havas360.png",
+                    photoUrl: "../assets/partners/havas360.png",
                     alt: "Havas360"
                 },
                 partner6: {
-                    photoUrl: "../../src/assets/partners/mendo.jpg",
+                    photoUrl: "../assets/partners/mendo.jpg",
                     alt: "Mendo"
                 },
                 partner7: {
-                    photoUrl: "../../src/assets/partners/regionPACA.png",
+                    photoUrl: "../assets/partners/regionPACA.png",
                     alt: "Region PACA"
                 },
                 partner8: {
-                    photoUrl: "../../src/assets/partners/sciencePoAix.png",
+                    photoUrl: "../assets/partners/sciencePoAix.png",
                     alt: "SciencesPo-Aix"
                 },
             }
