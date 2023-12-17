@@ -1,7 +1,7 @@
 <template>
     <div id="navtop">
         <div id="logoTitleDiv">
-            <!-- <img id="spxConseilImg" src="../assets/SpxConseil/spxLogo.jpg" alt="Spx Conseil Logo"> -->
+            <img id="spxConseilImg" src="../assets/SpxConseil/spxLogo.jpg" alt="Spx Conseil Logo">
             <h1 id="spxConseilH1">
                 Spx Conseil
             </h1>
@@ -20,14 +20,14 @@
                 contact
             </a>
             <p id="separatorDiv"></p>
-            <!-- <a 
+            <a 
             href="https://www.linkedin.com/company/spx-conseil/" target="_blank">
                 <img 
                 id="linkedinImg"
                 src="../assets/socialNetwork/linkedinLogo.webp" 
                 alt="linkedin"
                 >
-            </a> -->
+            </a>
             <button @click="chooseLang">
                 <div id="buttonDiv">
                     <div

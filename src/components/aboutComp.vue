@@ -3,7 +3,7 @@
         <div id="cityBackgroundDiv">
             <v-parallax
             id="cityBackgroundImg"
-            src="../assets/SpxConseil/cityBackgroundDallE.png" 
+            src="../src/assets/SpxConseil/cityBackgroundDallE.png" 
             ></v-parallax>
         </div>
         <div id="aboutDiv">
