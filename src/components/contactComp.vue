@@ -8,7 +8,7 @@
                 </h2>
             </div>
             <div id="formDiv">
-                <VForm action="https://formspree.io/f/xpzgvgwa" method="post" id="contactFormContainer" @submit="onSubmit">
+                <VForm action="https://formspree.io/f/xpzgvgwa" method="post" id="contactFormContainer">
                     <div id="leftFormDiv">
                         <div class="inputDiv">
                             <ErrorMessage name="lastName" class="inputError"/>
@@ -57,9 +57,9 @@ export default {
         ErrorMessage,
     },
     methods: {
-        onSubmit(values: Object) {
-            console.log(JSON.stringify(values, null, 2));
-        },
+        // onSubmit(values: Object) {
+        //     console.log(JSON.stringify(values, null, 2));
+        // },
         validateEmail(value: any) {
             if (!value) {
                 return this.$t('contact.fieldRequired')
