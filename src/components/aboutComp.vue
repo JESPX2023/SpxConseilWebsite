@@ -3,7 +3,7 @@
         <div id="cityBackgroundDiv">
             <v-parallax
             id="cityBackgroundImg"
-            src="../../src/assets/SpxConseil/cityBackgroundDallE.png" 
+            src="../assets/SpxConseil/cityBackgroundDallE.png"
             ></v-parallax>
         </div>
         <div id="aboutDiv">
@@ -25,8 +25,12 @@
 
 <script lang="ts">
 export default {
-
-}
+    // data() {
+    //     return {
+    //         cityBackgroundImageUrl: '../assets/SpxConseil/cityBackgroundDallE.png'
+    //     };
+    // }
+};
 </script>
 
 <style scoped>
