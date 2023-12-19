@@ -2,8 +2,8 @@
 
 ## lancer le projet en dev :
 
--npm install
--npm run dev
+- npm install
+- npm run dev
 
 ## Site réalisé a l'aide de :
 
