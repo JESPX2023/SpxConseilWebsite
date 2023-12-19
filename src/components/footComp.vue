@@ -66,12 +66,18 @@ export default {
 h2 {
     font-family: 'Itim', cursive;
     margin-left: -6vh;
+    font-size: max(1.5vw, 19px);
 }
 
 #aLinkDiv > a {
     text-decoration: none;
     color: white;
     margin-left: 2vw;
+    font-size: max(1vw, 12px);
+}
+
+p {
+    font-size: max(1vw, 12px);
 }
 
 #linkedinImg {

@@ -57,9 +57,6 @@ export default {
         ErrorMessage,
     },
     methods: {
-        // onSubmit(values: Object) {
-        //     console.log(JSON.stringify(values, null, 2));
-        // },
         validateEmail(value: any) {
             if (!value) {
                 return this.$t('contact.fieldRequired')
