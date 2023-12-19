@@ -7,13 +7,13 @@
 
 ## Site réalisé a l'aide de :
 
-- VueJS, 
-- TypeScript, 
-- Vuetify, 
-- Vue3 Carousel, 
-- Formspree : pour l'envoi de message de contact a l'adresse : websitejespx@gmail.com,
+- VueJS
+- TypeScript
+- Vuetify
+- Vue3 Carousel
+- Formspree : pour l'envoi de message de contact a l'adresse : websitejespx@gmail.com
 
-## L'hebergement est réalisé par Firebase, et lié au compte gitHub JESPX2023 et au compte firebase : websitejespx@gmail.com,
+## L'hebergement est réalisé par Firebase et lié au compte gitHub JESPX2023 et au compte firebase : websitejespx@gmail.com
 
 Pour mettre a jour l'hebergement : 
 - cloner le projet,
