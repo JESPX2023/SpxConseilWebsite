@@ -25,11 +25,7 @@
 
 <script lang="ts">
 export default {
-    // data() {
-    //     return {
-    //         cityBackgroundImageUrl: '../assets/SpxConseil/cityBackgroundDallE.png'
-    //     };
-    // }
+
 };
 </script>
 
@@ -56,6 +52,7 @@ export default {
     width: 66vw;
     max-height: 60vh;
     overflow: auto;
+    border-radius: 5px;
 }
 
 #overviewH2 {
