@@ -3,7 +3,7 @@
         <button id="downloadButton">
             <a
             id="downloadA"
-            href="../assets/brochure/RESILIATION-DE-LOGEMENT.pdf" 
+            href="../assets/brochure/dummy.pdf" 
             download
             >
                 <p id="downloadP">
