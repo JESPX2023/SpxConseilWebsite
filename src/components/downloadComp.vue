@@ -1,17 +1,17 @@
 <template>
     <div id="downloadDiv">
-        <button id="downloadButton">
-            <a
-            id="downloadA"
-            href="../assets/brochure/dummy.pdf" 
-            download
-            >
-                <p id="downloadP">
-                    {{ $t("download.download") }}
-                </p>
-                <v-icon icon="fas fa-download" />
-            </a>
-        </button>
+        <a
+        id="downloadA"
+        href="../assets/brochure/plaquetteSpxConseil.pdf" 
+        download
+        >
+            <button id="downloadButton">
+                    <p id="downloadP">
+                        {{ $t("download.download") }}
+                    </p>
+                    <v-icon icon="fas fa-download" />
+            </button>
+        </a>
     </div>
     <div id="colorBoxDiv">
         <!-- just a colored box -->
@@ -35,6 +35,7 @@ export default {
 }
 
 #downloadButton {
+    display: flex;
     padding: 2vh 4vh;
     font-size: max(1.2vw, 15px);
     font-weight: bold;

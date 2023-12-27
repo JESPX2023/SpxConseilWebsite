@@ -64,5 +64,4 @@ export default {
     font-size: max(1vw, 14px);
 }
 
-
 </style>
